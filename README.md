@@ -3,7 +3,7 @@ Project Development Roadmap
 Welcome to our project's development roadmap. This document outlines our strategic approach to building a state-of-the-art decentralized messaging application. Our focus is on privacy, security, and user sovereignty, leveraging cutting-edge technologies to protect and empower our users.
 Development Phases
 
- Ongoing User Registration and Authentication
+ Ongoing: User Registration and Authentication
 
     Implemented a decentralized identity management system utilizing Decentralized Identifiers (DIDs) and self-sovereign identity solutions to empower users with control over their digital identities.
     Integrated zero-knowledge proofs (ZKPs) to facilitate anonymous user registration and authentication, ensuring privacy and security without compromising on user experience.
